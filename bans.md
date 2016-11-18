@@ -13,7 +13,7 @@ realname | EzzyBot\* | Ezzybot instances: https://github.com/Azure-Developments/
 realname | zIRC\* | zIRC instances: https://github.com/itslukej/zirc
 account | Doger | Doger IRC tipbot: https://github.com/mniip/Doger
 account | AegisServer\* | Channel management bot. **Not cloaked** | Owner: **Bowserinator**
+real name | moo | |
 account | Andromeda | Channel management bot. **Not cloaked** | Owner: **BWBellairs**
 account | StewieGriffin\* | **Not cloaked** | Used in ##powder-bots
-chan link | ##proxadbots | List of zombie computers that run in the french ISP Free/Proxad | Third party managed channel
-account | moo | | testing webhooks
+

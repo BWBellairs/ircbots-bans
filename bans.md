@@ -16,5 +16,4 @@ account | AegisServer\* | Channel management bot. **Not cloaked** | Owner: **Bow
 account | Andromeda | Channel management bot. **Not cloaked** | Owner: **BWBellairs**
 account | StewieGriffin\* | **Not cloaked** | Used in ##powder-bots
 chan link | ##proxadbots | List of zombie computers that run in the french ISP Free/Proxad | Third party managed channel
-chan link | ##botmonitoring-bots |  | Third party managed channel
-real name | moo | | webhook testing
+account | moo | | testing webhooks

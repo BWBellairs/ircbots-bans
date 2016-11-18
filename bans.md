@@ -15,4 +15,4 @@ account | Doger | Doger IRC tipbot: https://github.com/mniip/Doger
 account | AegisServer\* | Channel management bot. **Not cloaked** | Owner: **Bowserinator**
 account | Andromeda | Channel management bot. **Not cloaked** | Owner: **BWBellairs**
 account | StewieGriffin\* | **Not cloaked** | Used in ##powder-bots
-real name | example | |
+account | moo | | testing
